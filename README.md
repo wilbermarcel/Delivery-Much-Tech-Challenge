@@ -2,6 +2,12 @@
 # Desafio = 'Delivery Much Tech Challenge'
  <a href="https://github.com/delivery-much/challenge">Link do Desafio</a>
  
+ [![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
+![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
+![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
+[![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
+ 
  ## O Desafio
 
 Você deve construir uma API que recebe ingredientes como parâmetro de entrada em uma chamada GET e retorna uma lista de receitas.

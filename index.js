@@ -1,9 +1,9 @@
-import express from 'express';
-import recipesRouter from './routers/recipes.js';
+import express from 'express'
+import recipesRouter from './routers/recipes.js'
 
-const app = express();
+const app = express()
 
-app.use(express.json());
-app.use('/recipes', recipesRouter);
+app.use(express.json())
+app.use('/recipes', recipesRouter)
 
-app.listen(3000, '0.0.0.0');
+app.listen(3000, '0.0.0.0')
